@@ -20,6 +20,18 @@
 
 - жена
 
+## Полезные ссылки
+
+- О пути в целом (маршруты, советы) - http://www.caminosantiago.ru
+
+- Опыт прохождения Португальского Пути - http://thedevochki.com/2016/11/09/put-svyatogo-iakova-kak-ya-11-dney-shla-iz-portugalii-v-ispaniyu/
+
+- Маршруты (метки для карт maps.me) - http://caminoguide.ru/
+
+- язык - http://thedevochki.com/2016/11/09/put-svyatogo-iakova-kak-ya-11-dney-shla-iz-portugalii-v-ispaniyu/
+
+- язык (аудиоучитель разговорного) - http://www.pimsleur.com/
+
 ## WBS
 
 - Подготовка
@@ -37,6 +49,12 @@
    - Планирование маршрута
    
    - Изучения языка
+   
+      - Выбор языка(ов)
+      
+      - Составление плана обучения
+      
+      - Обучение
    
    - Бронь гостиницы
    
