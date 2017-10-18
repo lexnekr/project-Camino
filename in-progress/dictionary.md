@@ -1,0 +1,14 @@
+- bastar - быть достаточным
+- el abrigo - пальто 
+- la chaqueta - пиджак 
+- el jersey - свитер 
+- la bufanda - шарф 
+- el sombrero - шапка; шляпа
+- el traje - костюм
+- los calcetines - носки
+- los zapatos - ботинки
+- la casa - дом
+- las zapatillas de casa - тапки6
+- las botas - сапоги
+- las zapatillas de deporte - кроссовки
+- los guantes - перчатки
