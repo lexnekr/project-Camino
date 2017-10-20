@@ -12,3 +12,14 @@
 - las botas - сапоги
 - las zapatillas de deporte - кроссовки
 - los guantes - перчатки
+- el paraguas - зонт (от дождя)
+- la sombrilla - зонт (от солнца)
+- el bolso - сумка; кошелёк
+- la bolsa - пластиковый пакет
+- la cartera - бумажник
+- hacer pis - ПИсать
+- tener que ... - быть должным
+- nuevo - новый
+- viejo - старый
+- cerrado - закрытый
+- abierto - открытый
