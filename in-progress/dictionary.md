@@ -23,3 +23,13 @@
 - viejo - старый
 - cerrado - закрытый
 - abierto - открытый
+- los frutos secos - 
+- los dulces - конфеты
+- el chocolate - шоколад
+- el pastel - торт
+- la pizza - пицца
+- el azúcar - сахар
+- la sal - соль
+- la pimienta - перец
+- vegetariano - вегетарианский; вегетарианец
+- caliente - тёплая (погода); горячая (еда)
