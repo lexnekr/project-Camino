@@ -33,3 +33,25 @@
 - la pimienta - перец
 - vegetariano - вегетарианский; вегетарианец
 - caliente - тёплая (погода); горячая (еда)
+- picante - острый (еда)
+- frío - холодный
+- alérgico - аллергический
+- adicto - зависимый; пристрастившийся
+- el humano - человек; человеческое существо
+- el animal - животное
+- el perro - собака
+- el gato - кошка
+- el pájaro - птица
+- el pez - рыба (животное)
+- el conejo - кролик
+- la serpiente - змея
+- el león - лев
+- el elefante - слон
+- el caballo - лошадь
+- la oveja - овца
+- el mono - обезьяна
+- el perrito - щенок
+- el gatito - котёнок
+- la jirafa - жираф
+- el burro - осёл
+- el ratón - мышь
