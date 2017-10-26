@@ -55,3 +55,11 @@
 - la jirafa - жираф
 - el burro - осёл
 - el ratón - мышь
+- fiel - преданный
+- valiente - смелый
+- inteligente - умный
+- estúpido - глупый
+- libre - свободный
+- alto - высокий
+- tranquilo - тихий
+- mono - милый
