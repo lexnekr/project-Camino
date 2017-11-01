@@ -76,3 +76,14 @@
 - tan - так; такой
 - por qué - почему
 - porque - потому что
+- el tiempo - время; погода
+- la hora - час
+- el minuto - минута
+- el segundo - секунда
+- la cita - приём; свидание
+- la reunión - встреча
+- más - больше
+- menos - меньше
+- cuándo - когда (в вопросах)
+- en punto - часа; часов
+- medio - половина
