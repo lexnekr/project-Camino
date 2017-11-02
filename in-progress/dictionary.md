@@ -87,3 +87,15 @@
 - cuándo - когда (в вопросах)
 - en punto - часа; часов
 - medio - половина
+- ver - видеть
+- cuídate - береги себя
+- querer decir - иметь в виду; хотеть сказать
+- el problema - проблема
+- sin - без
+- importar - значить; волноваться
+- ¡enhorabuena! - поздравляю!
+- el autobús - автобус
+- el tren - поезд
+- la estación - станция
+- la estación de tren - вокзал; железнодорожная станция
+- la ciudad - город
