@@ -99,3 +99,16 @@
 - la estación - станция
 - la estación de tren - вокзал; железнодорожная станция
 - la ciudad - город
+- el centro - центр
+- el parque - парк
+- el bar - бар
+- el teatro - театр
+- la biblioteca - библиотека
+- el extranjero; la extranjera - иностранец; иностранка
+- el mapa - карта
+- la guía - путеводитель
+- encontrar - найти
+- irse - уходить; уезжать
+- perdido - потерянный
+- confuso - смущённый
+- allí - вон там
